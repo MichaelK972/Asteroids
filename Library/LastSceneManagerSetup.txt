@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CS4613_CA.unity
+  isLoaded: 1
+  isActive: 1
